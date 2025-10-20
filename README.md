@@ -1,5 +1,5 @@
 # 🌌 Welcome, I’m Advay Sinha 👋  
-**Developer | Designer | Learner | AI + DS Enthusiast**
+**Developer | Learner | AI + DS Enthusiast**
 
 <div align="center">
   <img src="https://media.giphy.com/media/G2cpDFcKzAPMScb0MC/giphy.gif" alt="funny gif" />
