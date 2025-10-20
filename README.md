@@ -49,15 +49,16 @@
 
 ## 🛠 Featured Projects  
 
-### 🔹 [AlgoTrade Simulator](#)  
+### 🔹 [AlgoTrade Simulator](https://github.com/advay-sinha/Algo-Trade-Simulator) 
 💡 Flask + Python + Algorithmic Finance Trading Simulations + React frontend  + MongoDB
 
-### 🔹 [FloatChatAI](#)  
+### 🔹 [FloatChatAI](https://github.com/advay-sinha/FloatChat-AI)  
 ⚡Streamlit + Ingestion + RAG + Plotly + Cesium + PostGreSQL + ChromaDB
 
-### 🔹 [Mock AI](#)  
+### 🔹 [Mock AI](https://github.com/advay-sinha/Mock-AI)  
 🎨   Gemini API + Semantic User Analysis + CRUD + Interview+Prep + Relevancy Scoring
 
+## Many more on the way...
 ---
 
 ## 🌍 Connect With Me  
