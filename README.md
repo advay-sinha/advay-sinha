@@ -1,4 +1,4 @@
-# 🌌 Welcome, I’m Advay Sinha 👋  
+# 🌌 Hey, I’m Advay Sinha 👋  
 **Developer | Learner | AI + DS Enthusiast**
 
 <div align="center">
