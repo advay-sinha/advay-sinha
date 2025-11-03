@@ -81,3 +81,5 @@
 ---
 
 💡 *“Let the Fork be with You!!!”* 🚀
+
+[![An image of @advaysinha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/advaysinha)](https://holopin.io/@advaysinha)
