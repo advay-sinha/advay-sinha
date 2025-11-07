@@ -62,7 +62,7 @@
 ---
 
 ## 🏆Trophies
-[[![trophy](https://github-profile-trophy.vercel.app/?username=advay-sinha&theme=matrix)](https://github-profile-trophy.vercel.app/?username=advay-sinha&theme=matrix)
+[![trophy](https://github-profile-trophy.vercel.app/?username=advay-sinha&theme=matrix)](https://github-profile-trophy.vercel.app/?username=advay-sinha&theme=matrix)
 
 ---
 
