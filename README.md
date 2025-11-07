@@ -61,6 +61,17 @@
 ## Many more on the way...
 ---
 
+## 🏆Trophies
+[[![trophy](https://github-profile-trophy.vercel.app/?username=advay-sinha&theme=matrix)](https://github-profile-trophy.vercel.app/?username=advay-sinha&theme=matrix)
+
+---
+
+## 🎗️Badges
+
+[![An image of @advaysinha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/advaysinha)](https://holopin.io/@advaysinha)
+
+---
+
 ## 🌍 Connect With Me  
 
 <p align="center">
@@ -72,14 +83,4 @@
 
 ---
 
-## 🎵 Spotify Vibes  
-
-![Songs](https://spotify-recently-played-readme.vercel.app/api?user=e8ohl9nwdc5ci87y8krf1dit3&unique={true|1|on|yes})
-
-🎶 *Favoutite song*: **Romance Sengen – Kaneko Ayano**  
-
----
-
 💡 *“Let the Fork be with You!!!”* 🚀
-
-[![An image of @advaysinha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/advaysinha)](https://holopin.io/@advaysinha)
