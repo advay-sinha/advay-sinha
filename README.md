@@ -2,7 +2,7 @@
 **Developer | Learner | AI + DS Enthusiast**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/G2cpDFcKzAPMScb0MC/giphy.gif" alt="funny gif" />
+  <img src="https://media.giphy.com/media/8m7nAJTYvzNUh54HQm/giphy.gif" alt="funny gif" />
 </div>
 
 <p align="center">
