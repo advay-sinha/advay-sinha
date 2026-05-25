@@ -83,4 +83,4 @@ Streamlit + Ingestion + RAG + Plotly + Cesium + PostGreSQL + ChromaDB
 
 ---
 
-💡 *“The code must flow”* 
+🌊 *“Flowing like my code”* 
