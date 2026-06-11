@@ -78,7 +78,7 @@ Streamlit + Ingestion + RAG + Plotly + Cesium + PostGreSQL + ChromaDB
 <a href="https://linkedin.com/in/advay-sinha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/advay_.s"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 <a href="mailto:advaysinhaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-<a href="http://advaysinha.dpdns.org/"><img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white" /></a>
+<a href="http://advaysinha.in/"><img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white" /></a>
 </p>
 
 ---
