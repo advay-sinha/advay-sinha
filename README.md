@@ -1,86 +1,124 @@
-# Advay Sinha  
-**CS @ Bennett University · AI & Quantitative Finance · Backend Systems**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/8m7nAJTYvzNUh54HQm/giphy.gif" alt="funny gif" />
-</div>
+<h1 align="center">Advay Sinha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3500&pause=1000&color=6E57F5&center=true&vCenter=true&width=650&lines=Building+AI+%C3%97+Quantitative+Finance+Projects;ML+Models+%7C+RAG+Pipelines+%7C+Real-Time+Systems;Backend+Developer+%26+AI+Researcher" alt="Typing SVG" />
+  <strong>AI Systems · Quantitative Finance · Backend Engineering</strong><br/>
+  3rd-year B.Tech CSE @ Bennett University · Graduating May 2028
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/8m7nAJTYvzNUh54HQm/giphy.gif" width="250" alt="A penguin in sunglasses coding with Matrix reflections" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=18&amp;duration=3500&amp;pause=1000&amp;color=6E57F5&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+AI+that+can+show+its+work;Turning+market+data+into+research+tools;One+more+experiment.+One+last+commit." alt="Building AI that can show its work. Turning market data into research tools. One more experiment. One last commit." />
+</p>
+
+<p align="center">
+  <a href="https://www.advaysinha.in/"><img src="https://img.shields.io/badge/Portfolio-6E57F5?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio" /></a>
+  <a href="https://linkedin.com/in/advay-sinha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:advaysinhaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email Advay" /></a>
 </p>
 
 ---
 
-## About Me  
-2nd-year B.Tech CSE student(graduating May 2028), building at the intersection of **AI systems** and **quantitative finance**. I ship full-stack projects end-to-end — from WebSocket data pipelines to RAG explorers — and care a lot about systems that are fast, accurate, and actually useful.
+## 🧠 About Me
 
-Currently focused on: **ML applications**, **algorithmic trading infrastructure**, and **real-time backend systems**.
+I'm a **3rd-year Computer Science student** building at the intersection of **AI/ML, quantitative finance, and real-time systems**. I work across models, APIs, data pipelines, and interfaces to turn an interesting problem into something people can actually use.
 
----
+My current rabbit holes: **evidence-grounded AI agents**, **speech and text processing**, and **trading research with honest backtests**. I care about where the data came from, what the model got wrong, and whether the whole thing still works after a restart.
 
-## Tech Stack  
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python,java" /><br/>
-<img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,express,flask,mongodb,postgresql,chromadb" /><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,git,github,gitlab,docker,vercel,netlify,figma,photoshop,keras" />
-</p>
-<p align="center">
-  <code>PyTorch</code> · <code>Scikit-learn</code> · <code>Keras</code> · <code>OpenCV</code> · <code>LangChain</code> · <code>REST APIs</code> · <code>Ollama</code> · <code>RAG Pipelines</code> · <code>WebSockets</code> · <code>Webflow</code> · <code>Swagger</code> · <code>Pandas</code> · <code>Spring Boot</code> · <code>React Bits</code>
-</p>
-
+*Usually somewhere between “interesting idea” and “one last commit.”*
 
 ---
 
-##  GitHub Analytics  
+## 🚀 Featured Projects
+
+### 🛟 [SAHAY-AI](https://github.com/advay-sinha/SAHAY-AI)
+
+A team-built helpline intake prototype connecting voice and text conversations to evidence-linked case assessments and human escalation. Built around consent, bounded AI behaviour, and human decision-making.
+
+`FastAPI` · `React + TypeScript` · `React Native / Expo` · `PostgreSQL` · `PyTorch` · `Whisper / MuRIL`
+
+### 📈 [Algo Trade Lab](https://github.com/advay-sinha/Algo-Trade-Simulator)
+
+A quantitative research and paper-trading platform with cost-aware backtests, risk analytics, an ML experiment lab, and a research copilot.
+
+`FastAPI` · `React + Vite` · `MongoDB` · `scikit-learn` · `LangChain` · `MLflow (optional)`
+
+### 🔬 [Multi-Agentic Research Platform](https://github.com/advay-sinha/Multiagentic-Research-Platform)
+
+A five-stage research pipeline that plans, retrieves, writes, critiques, and verifies answers, with citations and execution traces you can inspect.
+
+`Next.js` · `FastAPI` · `PostgreSQL + pgvector` · `Gemini` · `SSE`
+
+### 🌊 [FloatChat-AI](https://github.com/advay-sinha/FloatChat-AI)
+
+A conversational explorer for ARGO ocean data, combining natural-language queries with maps, depth profiles, comparisons, and a 3D globe.
+
+`Streamlit` · `Plotly` · `Cesium` · `pandas / xarray` · `NetCDF / Parquet` · `Ollama`
+
+### 🎙️ [Mock AI](https://github.com/advay-sinha/Mock-AI)
+
+An interview-preparation platform with tailored mock tests, voice-enabled interview practice, and AI-generated feedback.
+
+`React` · `FastAPI` · `MongoDB` · `Gemini` · `Web Speech API`
 
 <p align="center">
-  <a href="https://github.com/advay-sinha">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=advay-sinha&theme=radical&hide_border=true"/>
+  <a href="https://github.com/advay-sinha?tab=repositories"><strong>More experiments in the repo vault →</strong></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+The tools behind the projects above, plus the languages I keep reaching for.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,react,nextjs&amp;theme=dark" alt="Python, TypeScript, JavaScript, C++, React, Next.js" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,pytorch,postgres,mongodb,docker,git&amp;theme=dark" alt="FastAPI, PyTorch, PostgreSQL, MongoDB, Docker, Git" />
+</p>
+
+| Area | What I work with |
+| --- | --- |
+| **Languages** | Python · TypeScript · JavaScript · C++ · SQL |
+| **Web & mobile** | React · Next.js · Vite · Tailwind CSS · React Native · Expo |
+| **APIs & real-time systems** | FastAPI · Pydantic · SQLAlchemy · REST · WebSockets · SSE |
+| **AI & ML** | PyTorch · scikit-learn · Hugging Face Transformers · LangChain · Ollama |
+| **Storage & retrieval** | PostgreSQL · pgvector · MongoDB · Supabase · SQLite |
+| **Data & research** | pandas · NumPy · xarray · Streamlit · Plotly · MLflow |
+| **Testing & delivery** | pytest · Vitest · Git · GitHub Actions · Docker · Vercel |
+
+**Things I build with them:** retrieval-augmented generation, agent pipelines, speech and text workflows, backtesting engines, and interactive data tools.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/advay-sinha?tab=overview">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=advay-sinha&amp;theme=radical" width="700" alt="Advay Sinha's GitHub contribution activity" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=advay-sinha&theme=radical" />
-</p>
-
-
----
-
-##  Featured Projects  
-
-### 🔹 [AlgoTrade Simulator](https://github.com/advay-sinha/Algo-Trade-Simulator) 
- Flask + Python + Algorithmic Finance Trading Simulations + React frontend  + MongoDB
-
-### 🔹 [FloatChatAI](https://github.com/advay-sinha/FloatChat-AI)  
-Streamlit + Ingestion + RAG + Plotly + Cesium + PostGreSQL + ChromaDB
-
-### 🔹 [Mock AI](https://github.com/advay-sinha/Mock-AI)  
-   Gemini API + Semantic User Analysis + CRUD + Interview+Prep + Relevancy Scoring
-
-## Many more on the way...
----
-
-## 🏆Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=advay-sinha&theme=matrix)](https://github-profile-trophy.vercel.app/?username=advay-sinha&theme=matrix)
-
----
-
-## 🎗️Badges
-
-[![image of @advaysinha Holopin profile](https://holopin.me/advaysinha)](https://holopin.io/@advaysinha)
-
----
-
-## 🌍 Connect With Me  
+<details>
+<summary><strong>🎗️ Badges & side quests</strong></summary>
 
 <p align="center">
-<a href="https://linkedin.com/in/advay-sinha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/advay_.s"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-<a href="mailto:advaysinhaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-<a href="http://advaysinha.in/"><img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white" /></a>
+  <a href="https://holopin.io/@advaysinha">
+    <img src="https://holopin.me/advaysinha" alt="Advay Sinha's Holopin badge board" />
+  </a>
 </p>
+
+</details>
 
 ---
 
-🌊 *“Flowing like my code”* 
+## 🌍 Connect With Me
+
+Have an interesting problem in AI, data, or developer tools? I'd love to hear about it.
+
+[Portfolio](https://www.advaysinha.in/) · [LinkedIn](https://linkedin.com/in/advay-sinha) · [Email](mailto:advaysinhaa@gmail.com) · [Instagram](https://instagram.com/advay_.s)
+
+<p align="center">
+  <i>🌊 Flowing like my code. Occasionally through a debugger.</i>
+</p>
