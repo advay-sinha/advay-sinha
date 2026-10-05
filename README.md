@@ -54,6 +54,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <a href="https://github.com/advay-sinha">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=advay-sinha&theme=radical&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/advay-sinha?tab=overview">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=advay-sinha&amp;theme=radical" width="750" alt="Advay Sinha's GitHub contribution activity" />
   </a>
